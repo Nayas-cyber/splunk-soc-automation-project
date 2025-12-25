@@ -31,3 +31,9 @@ This project demonstrates a SOC automation workflow for detecting failed authent
 
 ## Disclaimer
 This project is built in a lab environment for learning purposes and is not intended for production use.
+
+## How to Use This Repository
+- Review the architecture diagram to understand the workflow
+- Check SPL queries and alert logic under /splunk
+- Review n8n workflow overview under /n8n
+- Refer to screenshots for visual validation.
