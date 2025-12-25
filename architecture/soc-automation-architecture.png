@@ -1,0 +1,7 @@
+Windows 10 VM
+   ↓ (Splunk UF)
+Splunk Enterprise
+   ↓ (Alert Webhook)
+n8n
+   ↓ (LLM Analysis)
+Slack
